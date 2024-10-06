@@ -46,12 +46,5 @@ export default function Page() {
      
      
      
-     // import React from 'react'
-      
-      // const page = () => {
-      //   return (
-      //     <div className="bg-yellow-500 w-50 h-40 ml-6 mt-4 text-red-500 pt-5 pl-6">Summiya</div>
-      //   )
-      // }
-      // export default page
+     
       
